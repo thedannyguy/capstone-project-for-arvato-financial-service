@@ -1,5 +1,7 @@
 # capstone-project-for-arvato-financial-service (Udacity - Data Science Nanodegree)
 
+Note: my blog post can be viewed at https://thedannyguy.medium.com/capstone-project-for-arvato-financial-service-27322a1d2b09
+
 # Description
 The project has three major steps: the customer segmentation report, the supervised learning model, and the Kaggle Competition.
 
@@ -19,6 +21,8 @@ sklearn.cluster, sklearn.model_selecfion, hyperopt, csv, time, timeit
 # File descriptions
 
 Arvato Project Workbook (2).ipynb: contains all the codes required in performing the three major steps
+
+website for my blog post.docx: contains the website address of my blog post in medium.com
 
 arvato project report.docx:  a word document files containing description of the iterative steps i took to accomplish the 3 major steps
 
