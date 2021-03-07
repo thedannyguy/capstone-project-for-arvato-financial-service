@@ -19,11 +19,17 @@ sklearn.cluster, sklearn.model_selecfion, hyperopt, csv, time, timeit
 # File descriptions
 
 Arvato Project Workbook (2).ipynb: contains all the codes required in performing the three major steps
+
 arvato project report.docx:  a word document files containing description of the iterative steps i took to accomplish the 3 major steps
+
 data cleaning and preprocessing.ipynb: notebook containing the codes for data cleaning and preprocessing
+
 unsupervised learning model.ipynb: notebook containing codes for unsupervised learning model (K-Means) to idenfity core customers of the mail order company
+
 supervised learning model.ipynb: notebook containing codes for supervised learning model to predict whether an individual will respond postively to the mailout campaign.
-list of functions.ipynb: list of custom functions used in Arvato Project Workbook
+
+list of functions.ipynb: list of custom functions used in Arvato Project Workbook.
+
 xgbcl model for mailout train best model with loss 0.235243.pkl : xgbooster model that is trained on MAILOUT TRAIN used to identify most important features
 
 # Outcome
